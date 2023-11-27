@@ -7,3 +7,7 @@ https://github.com/performeru/BuggyHouse.git
 ___
 ## 코딩 테스트
 https://github.com/performeru/Baekjoon-and-Programmers--Study
+___
+## Tech Stack
+
+C++
