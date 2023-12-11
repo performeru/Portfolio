@@ -12,4 +12,7 @@ https://github.com/performeru/Baekjoon-and-Programmers--Study
 ___
 ## Tech Stack
 
-C++
+C, C++, C#
+
+##Tool
+
