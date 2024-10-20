@@ -1,6 +1,6 @@
 # *Portfolio*
 
-[![구현 동영상](http://img.youtube.com/vi/_RFcu8tAdac/0.jpg)](https://www.youtube.com/watch?v=_RFcu8tAdac)
+[![Description of GIF](Timeline-1.gif)](https://github.com/performeru/UERPG)
 
 [포트폴리오 문서](https://github.com/performeru/UERPG)
 ___
